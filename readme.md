@@ -4,7 +4,7 @@ This project aims to develop a machine learning model that can recognize emotion
 The model uses the RAVDESS dataset, which contains recordings of actors speaking in different emotional tones.
 
 ## Project Structure
-
+```sh
 emotion_recognition/
 ├── dataset/ # Downloaded RAVDESS dataset
 │ ├── Audio_Speech_Actors_01-24/
@@ -13,7 +13,7 @@ emotion_recognition/
 ├── .gitignore # gitignore file
 ├── readme.md # Readme
 └── requirements.txt # Library requirement file
-
+```
 
 ## Dataset
 
