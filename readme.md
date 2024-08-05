@@ -7,8 +7,8 @@ The model uses the RAVDESS dataset, which contains recordings of actors speaking
 ```sh
 emotion_recognition/
 ├── dataset/ # Downloaded RAVDESS dataset
-    ├── Audio_Speech_Actors_01-24/
-    └── Audio_Song_Actors_01-24/
+│   ├── Audio_Speech_Actors_01-24/
+│   └── Audio_Song_Actors_01-24/
 ├── venv/ # Virtual environment
 ├── .gitignore # gitignore file
 ├── readme.md # Readme
