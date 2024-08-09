@@ -52,5 +52,5 @@ pip install -r requirements.txt
 ### Step 4: Download and Extract the Dataset
 
 1. Visit the Zenodo RAVDESS page.
-2. Download the Audio_Speech_Actors_01-24.zip file.
+2. Download the Audio_Speech_Actors_01-24.zip and the Audio_Song_Actors_01-24.zip file.
 3. Extract the contents into the dataset directory.
